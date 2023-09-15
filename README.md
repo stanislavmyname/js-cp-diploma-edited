@@ -1,3 +1,19 @@
+
+**Используемые технологии**
+- JavaScript
+- CSS
+- HTML
+
+**Ссылка на GitHub Pages website** 
+https://github.com/LaAlmaDeMadhatter/js-cp-diploma-edited-final
+
+**Описание файлов JS**
+- [createRequest](./md/createRequest.md)
+- [hall](./md/hall.md)
+- [index](./md/index.md)
+- [payment](./md/payment.md)
+- [ticket](./md/ticket.md)
+
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».
